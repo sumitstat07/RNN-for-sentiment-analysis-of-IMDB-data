@@ -116,9 +116,28 @@ nltk.download('punkt_tab')
 
 ## Results
 
-The model is trained for 10 epochs on an 80/20 train-test split. Final classification accuracy on the test set is printed at the end of the notebook.
+The model was trained for 10 epochs on an 80/20 train-test split.
 
-*(Consider adding your actual accuracy score here once training completes, e.g. "Test Accuracy: XX.X%".)*
+| Metric | Value |
+|---|---|
+| **Test Accuracy** | **82.73%** |
+| Epochs | 10 |
+| Final training loss | 0.2515 |
+
+Training loss per epoch:
+
+| Epoch | Loss |
+|---|---|
+| 1 | 0.3392 |
+| 2 | 0.2921 |
+| 3 | 0.3609 |
+| 4 | 0.3407 |
+| 5 | 0.2724 |
+| 6 | 0.3596 |
+| 7 | 0.4876 |
+| 8 | 0.3088 |
+| 9 | 0.3438 |
+| 10 | 0.2515 |
 
 ## Future Improvements
 
