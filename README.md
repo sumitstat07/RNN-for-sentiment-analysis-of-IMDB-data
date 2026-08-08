@@ -4,21 +4,6 @@ A Recurrent Neural Network (RNN), built from scratch with PyTorch, that classifi
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Pipeline](#pipeline)
-- [Model Architecture](#model-architecture)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Future Improvements](#future-improvements)
-- [License](#license)
-
----
-
 ## Overview
 
 | | |
